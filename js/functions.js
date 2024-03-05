@@ -4,7 +4,7 @@ var theFirstIndustrialRevolution = 1760;
 var crashRateinYears = 10;
 var baseOvershootYear = 1971;
 var numberOfYearsToDoubleGlobalConsumption = 62;
-var predictedYearOfCollapse = 2040;
+var predictedYearOfCollapse = 2100;
 
 function knowHowOutdatedIsIGC() {
   var outdatedYears = currentYear - theFirstIndustrialRevolution;
