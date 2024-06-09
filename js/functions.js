@@ -11,7 +11,7 @@ function knowHowOutdatedIsIGC() {
   return outdatedYears;
 }
 function knowHowManyCrashesHaveOccured() {
-  var crashes = Math.floor((currentYear - theFirstIndustrialRevolution) / crashRateinYears);
+  var crashes = Math.floor((currentYear - theFirstIndustrialRevolution) / crashRateinYears) - 5;
   return crashes;
 }
 function calculateEarthOvershoot() {
